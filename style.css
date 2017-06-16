@@ -1,0 +1,29 @@
+#modal {
+  background-image: url(http://cdn3-www.dogtime.com/assets/uploads/gallery/30-impossibly-cute-puppies/impossibly-cute-puppy-21.jpg);
+  height: 50vh;
+  min-height: 300px;
+  width: 60vw;
+  min-width: 300px;
+  left: 20vw;
+  top: 25vh;
+  position: absolute;
+  
+  /* basic styles */
+  padding: 5mm;
+  font-family: serif;
+  font-size: %;
+}
+
+#action {
+  left: 7vw;
+  top: 90vh;
+  position: absolute;
+}
+
+.hide {
+  display: none;
+}
+
+button {
+  background-color: peachpuff;
+}
